@@ -5,6 +5,8 @@
 ##### Heading 5
 ###### Heading 6
 
+---
+
 This is a paragraph
 
 This is a second paragraph
