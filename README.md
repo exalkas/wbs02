@@ -8,3 +8,6 @@
 This is a paragraph
 
 This is a second paragraph
+
+*This is italics text
+**This is bold and italics
