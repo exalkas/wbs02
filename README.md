@@ -32,3 +32,11 @@ with 2 lines
 |----|---|
 |John| Doe|
 |Jane| Doe|
+
+😄
+🐈
+
+`function () some name {
+  console.log(something);
+}
+`
