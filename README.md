@@ -27,3 +27,8 @@ with 2 lines
 - [Third Item](http://www.google.com)
 
 ![Antelopes on Dunes](https://cdn.pixabay.com/photo/2020/11/07/10/24/desert-5720527_960_720.jpg)
+
+| First Name|Last Name|
+|----|---|
+|John| Doe|
+|Jane| Doe|
